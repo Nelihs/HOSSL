@@ -1,0 +1,84 @@
+    "Can't cancel missions that do not belong to you!": "Não pode cancelar missões que não pertencem a você!",
+ 
+
+   "!!! Last warning !!!": "!!! Último aviso !!!",
+
+
+    "%s Has Joined": "%s se juntou",
+ 
+
+   "%s Has Joined using your link!": "%s se juntou usando seu link!",
+
+
+    "Automation is forbidden": "A automação é proibida",
+
+
+    "Can't chat while server is restarting . Restarting server is required to apply bugfixes and make the game better": "Não é possível conversar enquanto o servidor está sendo reiniciado, o reinício é necessário para aplicar correções de erros e tornar o jogo melhor",
+
+
+    "Failed to start mission.\nReason: You do not have enough cash to deposit for penalty on failing the mission!": "Falha ao iniciar a missão.\nMotivo: Você não tem dinheiro suficiente para a penalidade caso falhe a missão!",
+
+
+    "Failed to start mission.\nReason: You must have reputation between %d and %d": "Falha ao iniciar a missão.\nMotivo: Você deve ter reputação entre %d e %d",
+
+
+    "Failed updating password. Please contact us via the forum <a href=\"http://forum.hackers.online\"> here </a> dont forget to mention your username!": "Falha ao atualizar a senha. Contacte-nos através do fórum <a href=\"http://forum.hackers.online\"> aqui </a> não se esqueça de mencionar o seu nome de usuário!",
+
+
+    "Invalid command!": "Comando inválido!",
+
+
+    "Invalid user!": "Usuário inválido!",
+
+
+    "Not enough %s": "%s insuficiente",
+
+
+    "Not passing the bot check will result in your account blocked!": "Não passar na verificação do bot resultará no bloqueio de sua conta!",
+
+
+    "Usernames that does not match our rules are permanantely banned!": "Nomes de usuário que não correspondem às nossas regras são permanentemente banidos!",
+
+
+    "Using automation will result in deleting your account.": "O uso de automação resultará na exclusão de sua conta.",
+
+
+    "Writing improper words (in any language) will get your account deleted.": "Se escrever palavras impróprias (em qualquer idioma) terá sua conta excluída.",
+
+
+    "You already own a guild, or part of a guild!": "Você já é dono de uma guild, ou é parte de uma!",
+
+
+    "File does not exist!": "O arquivo não existe!",
+
+
+    "File not found!": "Arquivo não encontrado!",
+
+
+    "Invalid Gateway! ": "Gateway inválido!␣",
+ 
+
+
+   "Not connected to target!": "Não conectado ao alvo!",
+
+
+    "Server is restarting. Please try again after the restart.": "O servidor está reiniciando. Por favor, tente novamente após o reinício.",
+
+
+    "Not allowed to PM developer": "Não é permitido mandar PM ao desenvolvedor",
+
+
+    "TOR and/or VPN users are not allowed to chat": "Utilizadores de TOR e/ou VPN não têm permissão para falar no chat",
+
+
+    "You can't use non-hackers as bounce node!": "Você não pode usar não-hackers como bounce!",
+
+
+    "Not allowed to email the developer. Use the forums http://forum.hackerz.online for questions and issues!": "Não é permitido enviar e-mail ao desenvolvedor. Use o fórum http://forum.hackerz.online para dúvidas e problemas!",
+
+
+    "%s is not being upgraded!": "%s não está sendo atualizado!",
+
+
+    "Can not cancel upgrade": "Não é possível cancelar a atualização"
+}
